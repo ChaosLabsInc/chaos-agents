@@ -1,0 +1,12 @@
+aave-helpers/=lib/aave-helpers/
+forge-std/=lib/aave-helpers/lib/forge-std/src/
+aave-address-book/=lib/aave-helpers/lib/aave-address-book/src/
+solidity-utils/=lib/aave-helpers/lib/aave-address-book/lib/aave-v3-origin/lib/solidity-utils/src/
+lib/aave-helpers:aave-v3-origin/=lib/aave-helpers/lib/aave-address-book/lib/aave-v3-origin/src
+aave-v3-origin/=lib/aave-helpers/lib/aave-address-book/lib/aave-v3-origin/
+openzeppelin-contracts-upgradeable/=lib/aave-helpers/lib/aave-address-book/lib/aave-v3-origin/lib/solidity-utils/lib/openzeppelin-contracts-upgradeable/
+openzeppelin-contracts/=lib/aave-helpers/lib/aave-address-book/lib/aave-v3-origin/lib/solidity-utils/lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/
+aave-capo/=lib/aave-capo/src/
+lib/aave-capo:cl-synchronicity-price-adapter/=lib/aave-capo/lib/cl-synchronicity-price-adapter/src/
+@openzeppelin/contracts-upgradeable/=lib/aave-helpers/lib/aave-address-book/lib/aave-v3-origin/lib/solidity-utils/lib/openzeppelin-contracts-upgradeable/contracts/
+@openzeppelin/contracts/=lib/aave-helpers/lib/aave-address-book/lib/aave-v3-origin/lib/solidity-utils/lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/contracts/

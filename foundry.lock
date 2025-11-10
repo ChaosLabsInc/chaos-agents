@@ -1,0 +1,11 @@
+{
+  "lib/aave-capo": {
+    "rev": "8d26ab47011d8c2d8a19915066a7b162d98a85ee"
+  },
+  "lib/aave-helpers": {
+    "rev": "e0ad471e9da2b45468b0f3e0adac7d3c257940dc"
+  },
+  "lib/forge-std": {
+    "rev": "066ff16c5c03e6f931cd041fd366bc4be1fae82a"
+  }
+}

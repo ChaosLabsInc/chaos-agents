@@ -1,0 +1,16 @@
+.idea
+.vscode
+.env
+.env.local
+
+# Foundry
+out/
+cache/
+
+node_modules/
+
+# source
+scripts/
+.github/
+tsconfig.json
+# src/ not sure as for hardhat might be interesting

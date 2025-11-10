@@ -1,0 +1,7 @@
+pre-commit:
+  parallel: false
+  commands:
+    format:
+      priority: 1
+      run: npm run lint:fix
+      stage_fixed: true

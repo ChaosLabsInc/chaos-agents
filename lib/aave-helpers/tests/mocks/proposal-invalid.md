@@ -1,4 +1,0 @@
----
-title: TestTitle
-discussions: TestDiscussion
----

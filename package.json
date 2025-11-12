@@ -1,0 +1,24 @@
+{
+  "name": "chaos-agents",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "prettier '**/*.{sol,ts}'",
+    "lint:fix": "npm run lint -- --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaosLabsInc/chaos-agents.git"
+  },
+  "keywords": [],
+  "author": "BGD labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChaosLabsInc/chaos-agents/issues"
+  },
+  "homepage": "https://github.com/ChaosLabsInc/chaos-agents#readme",
+  "devDependencies": {
+    "lefthook": "^1.8.4",
+    "prettier": "^3.5.0",
+    "prettier-plugin-solidity": "^1.4.2"
+  }
+}

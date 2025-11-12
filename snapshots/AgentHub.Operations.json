@@ -1,0 +1,9 @@
+{
+  "check: marketsFromAgentDisabled -> 3 updates": "142401",
+  "check: marketsFromAgentDisabled updatesWithSameMarket -> 3 updates, 2 with same market": "106957",
+  "check: marketsFromAgentEnabled -> 3 updates": "136921",
+  "check: marketsFromAgentEnabled -> 3 updates, 1 restricted": "109201",
+  "check: marketsFromAgentEnabled updatesWithSameMarket -> 3 updates, 2 with same market": "103473",
+  "execute: marketsFromAgentDisabled -> 3 updates": "240654",
+  "execute: marketsFromAgentEnabled -> 3 updates": "235173"
+}
